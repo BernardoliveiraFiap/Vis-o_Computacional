@@ -25,3 +25,9 @@ Interpretação da previsão: A etiqueta com a maior probabilidade é selecionad
 Exibição dos resultados: A imagem original e a previsão do modelo são exibidas. A previsão inclui a etiqueta prevista e a pontuação de confiança.
 
 Espera por entrada do teclado: O script aguarda a entrada do teclado do usuário. Se a tecla ‘esc’ for pressionada, todas as janelas de imagem abertas serão fechadas.
+
+![image](https://github.com/BernardoliveiraFiap/Visao_Computacional/assets/126569987/48c02f6e-93f1-4eb6-8876-5edeae09cee0)
+
+
+
+#GitPage:
