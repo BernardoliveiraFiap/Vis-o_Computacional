@@ -1,4 +1,4 @@
-# Este repositório demonstra como criar um modelo de visão computacional simples pelo google colab.
+# Este repositório demonstra como é um modelo de visão computacional simples pelo google colab/google teachable machine.
 
 # Integração do Tensorflow.js com Html e Css: https://github.com/BernardoliveiraFiap/GITvisaocomput
 
