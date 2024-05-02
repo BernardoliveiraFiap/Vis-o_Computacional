@@ -1,7 +1,7 @@
 # Este repositório demonstra como é um modelo de visão computacional simples pelo google colab/google teachable machine.
 
-# Integração do Tensorflow.js com Html e Css: 
-https://github.com/BernardoliveiraFiap/GITvisaocomput
+# GitPage: https://bernardoliveirafiap.github.io/GITvisaocomput/
+
 
 # Explicativo:
 Importação de bibliotecas necessárias: As bibliotecas necessárias para a execução do código são importadas. Isso inclui cv2 para processamento de imagem, numpy para manipulação de array, keras para carregar o modelo de aprendizado de máquina e google.colab.patches para exibir imagens.
@@ -25,4 +25,6 @@ Espera por entrada do teclado: O script aguarda a entrada do teclado do usuário
 ![image](https://github.com/BernardoliveiraFiap/Visao_Computacional/assets/126569987/48c02f6e-93f1-4eb6-8876-5edeae09cee0)
 
 
-# GitPage: https://bernardoliveirafiap.github.io/GITvisaocomput/
+
+# Integração do Tensorflow.js com Html e Css: 
+https://github.com/BernardoliveiraFiap/GITvisaocomput
