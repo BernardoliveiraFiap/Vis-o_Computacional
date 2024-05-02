@@ -1,6 +1,7 @@
 # Este repositório demonstra como é um modelo de visão computacional simples pelo google colab/google teachable machine.
 
-# Integração do Tensorflow.js com Html e Css: https://github.com/BernardoliveiraFiap/GITvisaocomput
+# Integração do Tensorflow.js com Html e Css: 
+https://github.com/BernardoliveiraFiap/GITvisaocomput
 
 # Explicativo:
 Importação de bibliotecas necessárias: As bibliotecas necessárias para a execução do código são importadas. Isso inclui cv2 para processamento de imagem, numpy para manipulação de array, keras para carregar o modelo de aprendizado de máquina e google.colab.patches para exibir imagens.
