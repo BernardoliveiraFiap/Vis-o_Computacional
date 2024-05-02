@@ -1,0 +1,3 @@
+0 Dolar
+1 Real
+2 Fundo
