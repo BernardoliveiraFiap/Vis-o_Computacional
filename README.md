@@ -1,11 +1,6 @@
 # Este repositório demonstra como criar um modelo de visão computacional simples pelo google colab.
 
-# Documentação:
-https://www.tensorflow.org/guide?hl=pt-br
-https://python-pillow.org/
-https://opencv.org/
-https://keras.io/
-https://numpy.org/
+# Integração do Tensorflow.js com Html e Css: https://github.com/BernardoliveiraFiap/GITvisaocomput
 
 # Explicativo:
 Importação de bibliotecas necessárias: As bibliotecas necessárias para a execução do código são importadas. Isso inclui cv2 para processamento de imagem, numpy para manipulação de array, keras para carregar o modelo de aprendizado de máquina e google.colab.patches para exibir imagens.
@@ -27,7 +22,6 @@ Exibição dos resultados: A imagem original e a previsão do modelo são exibid
 Espera por entrada do teclado: O script aguarda a entrada do teclado do usuário. Se a tecla ‘esc’ for pressionada, todas as janelas de imagem abertas serão fechadas.
 
 ![image](https://github.com/BernardoliveiraFiap/Visao_Computacional/assets/126569987/48c02f6e-93f1-4eb6-8876-5edeae09cee0)
-
 
 
 # GitPage: https://bernardoliveirafiap.github.io/GITvisaocomput/
